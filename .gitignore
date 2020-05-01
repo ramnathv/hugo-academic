@@ -10,3 +10,11 @@ exampleSite/public/
 
 # Node
 node_modules/
+.Rproj.user
+
+# Mac OS
+.DS_Store
+
+#R
+.Rhistory
+*.Rproj
